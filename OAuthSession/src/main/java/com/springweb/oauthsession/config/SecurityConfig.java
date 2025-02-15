@@ -21,7 +21,7 @@ public class SecurityConfig {
         http
                 .csrf((csrf)-> csrf.disable());
         http
-                .formLogin((login)-> login.disable());
+                .formLogin((login)-> login.disable());//from로그인 비활성화
         http
                 .httpBasic((httpBasic)-> httpBasic.disable());
         http
