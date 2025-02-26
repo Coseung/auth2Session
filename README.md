@@ -1,8 +1,8 @@
 
 # Spring Boot OAuth 2.0 소셜 로그인 공부 (네이버, 세션)📒
 
-이 프로젝트는 [카카오](https://github.com/Coseung/kakologin_study)로그인과 다른방식으로 공부하였음. 소셜로그인 요청 구조에 대해 좀더 알 수 있었음. JWT토큰발급 추가 구현예정
-
+이 프로젝트는 [카카오](https://github.com/Coseung/kakologin_study)로그인과 다른방식으로 공부하였음. 소셜로그인 요청 구조에 대해 좀더 알 수 있었음.
+추후 카카오, 네이버 소셜로그인 을 다른 프로젝트에 적용시켜 JWT토큰 발급까지할 예정
 
 
 # 🛠️ 기술 스택
